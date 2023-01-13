@@ -1,0 +1,39 @@
+a{
+    margin-left: 10px;
+    margin-top: 8px;
+
+}
+
+embed{
+    
+    width: 1000px;
+    height: 1000px;
+    
+}
+
+body{
+    background: url("fdc.jpg");
+   
+}
+
+.reseau{
+    margin-top: 33%;
+    padding-left: 10px;
+}
+
+.vlan{
+    padding-left: 10px;
+}
+
+.Vtuto{
+    padding-right: 70%;
+}
+
+.conteneur{    
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 4%;
+   
+}
+

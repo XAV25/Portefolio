@@ -1,0 +1,47 @@
+.btn-group{
+
+    margin-bottom: 20px;
+}
+
+.row{
+
+    text-align: center;
+
+    
+  
+}
+
+
+.col-9 > h1{
+    margin-left: 35%;
+    
+}
+
+
+.col-9 > p{
+    margin-left: 35%;
+}
+
+.col-9 > h4{
+    margin-left: 35%;
+}
+
+body{
+    background: url("fdc.jpg");
+   
+}
+
+.jumbotron{
+
+opacity: 70%;
+
+}
+
+.PTF{
+    
+    padding-left: 10px;
+}
+
+h3{
+    padding-left: 90%;
+}
